@@ -27,12 +27,18 @@
     ]
   },
   "projects": {
+    "api": {
+      "tags": []
+    },
     "redux-practice": {
       "tags": []
     },
     "redux-practice-e2e": {
       "tags": [],
       "implicitDependencies": ["redux-practice"]
+    },
+    "shared": {
+      "tags": []
     }
   }
 }
